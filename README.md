@@ -31,6 +31,6 @@ To run my project follow the steps
     ///
     The AI model was provided by
     [Yvcsdylane] (<url>)
-    https://github.com/yucsdylane
+    https://github.com/yvesdylane
         
 
