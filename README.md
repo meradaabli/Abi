@@ -19,5 +19,14 @@ unordered list
  2. item 2 
   >I LOVE SCHOOL
   >>MONEY IS GOOD
-
+The traditional `Hello world` code
+To run my project follow the steps
+\\\cdm
+    git init -- in the folder to chose to work on
+    git clone <url> -- to clone my repo
+ \\\
+ This will run the code bellow
+  \\\Javascript
+      console.log("Hellow World")
+    ///        
 
