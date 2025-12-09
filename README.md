@@ -28,5 +28,9 @@ To run my project follow the steps
  This will run the code bellow
   \\\Javascript
       console.log("Hellow World")
-    ///        
+    ///
+    The AI model was provided by
+    [Yvcsdylane] (<url>)
+    https://github.com/yucsdylane
+        
 
